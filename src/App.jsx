@@ -4,7 +4,7 @@ export default function App() {
       <h1 className="text-4xl font-bold text-slate-800 mb-4">Добро пожаловать в CMS!</h1>
       <p className="text-slate-500 mb-8">Это ваш новый автоматически созданный проект.</p>
       <button className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg">
-        Отредактируй меня
+        Отредактируй меняdfdfdfdfdf
       </button>
     </div>
   );
